@@ -1,0 +1,80 @@
+{
+  "project_count": 10,
+  "projects": [
+    {
+      "slug": "upvc-cutting-machine",
+      "title": "uPVC Mullion Cutting Machine",
+      "category": "Mechanical design",
+      "summary": "Reverse-engineered an existing industrial mullion-cutting machine, documented its mechanical structure, and recreated the components and assembly in CATIA V5."
+    },
+    {
+      "slug": "robot-end-effector",
+      "title": "Robotic Nail-Punching End Effector",
+      "category": "Mechanical design",
+      "summary": "Designed a custom aluminum holder in CATIA V5 to mount a nail-gun end effector to a robot wrist, as part of a collaborative robotics simulation project."
+    },
+    {
+      "slug": "vehicle-cruise-control",
+      "title": "Vehicle Cruise & Adaptive Control",
+      "category": "Dynamics & control",
+      "summary": "Built and evaluated vehicle speed and distance-control models using PI/PID feedback, anti-windup, robustness checks and observer-based control."
+    },
+    {
+      "slug": "bmw-steering",
+      "title": "BMW 730 Steering Dynamics",
+      "category": "Dynamics & control",
+      "summary": "Analyzed a BMW 730 lateral model and designed active yaw-rate control with state-estimation comparisons involving Luenberger and Wiener/Kalman approaches."
+    },
+    {
+      "slug": "inverted-pendulum",
+      "title": "Inverted Pendulum Stabilization",
+      "category": "Dynamics & control",
+      "summary": "Stabilized a simulated unstable cart–pendulum system using state feedback, pole placement, LQR and integral action for cart-position tracking."
+    },
+    {
+      "slug": "buck-converter",
+      "title": "Closed-Loop DC–DC Buck Converter",
+      "category": "Mechatronics & vision",
+      "summary": "Modeled a buck converter and cascaded voltage/current regulation in MATLAB/Simulink across input-voltage and load variations."
+    },
+    {
+      "slug": "moss-detection",
+      "title": "Moss Detection on Building Walls",
+      "category": "Mechatronics & vision",
+      "summary": "Compared classical contour-based segmentation with DeepLabv3+ / ResNet-50 for detecting moss on textured wall images."
+    },
+    {
+      "slug": "bicycle-dynamics",
+      "title": "Bicycle Dynamics & Feedback Control",
+      "category": "Dynamics & control",
+      "summary": "Studied bicycle stability using dynamic models, root-locus analysis and feedback control of the Whipple bicycle model."
+    },
+    {
+      "slug": "kalman-tracking",
+      "title": "Kalman Filtering for Motion Tracking",
+      "category": "Mechatronics & vision",
+      "summary": "Implemented a Kalman-filter-based tracking method for noisy simulated observations of a football during penalty-kick trajectories."
+    },
+    {
+      "slug": "rolling-bearing-diagnostics",
+      "title": "Rolling-Bearing Fault Diagnostics",
+      "category": "Research",
+      "summary": "Investigated rolling-bearing fault classification by combining vibration analysis, thermal imagery, signal processing and SVM techniques."
+    }
+  ],
+  "document_count": 12,
+  "report_redactions": {
+    "uPVC_Cutting_Machine_Technical_Excerpt.pdf": 0,
+    "Buck_Converter_Technical_Report.pdf": 1,
+    "Moss_Detection_Methods_and_Results.pdf": 0,
+    "Vehicle_Cruise_Control_Technical_Report.pdf": 0,
+    "Adaptive_Cruise_Control_Technical_Report.pdf": 0,
+    "BMW_730_Steering_Dynamics_Technical_Report.pdf": 0,
+    "BMW_730_Active_Steering_Technical_Report.pdf": 0,
+    "Inverted_Pendulum_Control_Technical_Report.pdf": 0,
+    "Bicycle_Dynamics_Technical_Report.pdf": 0,
+    "Kalman_Motion_Tracking_Technical_Report.pdf": 0,
+    "Rolling_Bearing_Fault_Diagnosis_MSc_Thesis.pdf": 0
+  },
+  "source_files_note": "See README.md; native CAD and source code not supplied"
+}
